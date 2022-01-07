@@ -1,5 +1,5 @@
 # План реализации своего проекта:
-[План проекта согласно этой схемы: ](https://dou.ua/lenta/columns/12-steps-for-junior-react-developer/)
+[План проекта согласно этой схемы...](https://dou.ua/lenta/columns/12-steps-for-junior-react-developer/)
 
 1. ### Реализуем самый базовый функционал:
    добавление, поиск, изменение, удаление, свитчер
